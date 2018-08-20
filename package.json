@@ -1,0 +1,21 @@
+{
+  "name": "audio-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "annyang": "^2.6.1",
+    "artyom.js": "^1.0.6",
+    "mdbreact": "^4.7.0",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-p5-wrapper": "0.0.4",
+    "react-scripts": "1.1.4",
+    "react-speech-recognition": "^1.0.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
